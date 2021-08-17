@@ -1,4 +1,4 @@
-EXTRAPATHS_prepend := "${THISDIR}/optee-os:"
+FILESEXTRAPATHS_prepend := "${THISDIR}/optee-os:"
 
 
 SRC_URI += "  \
